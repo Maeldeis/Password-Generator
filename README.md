@@ -12,7 +12,7 @@ This app will run in the browser, and will feature dynamically updated HTML and 
 * Generates a password on button click
   * Presents a series of criteria prompts
     * Length of password
-      *8 to 128 characters
+      * 8 to 128 characters
     * Character types include:
       * Lowercase
       * Uppercase
@@ -24,7 +24,6 @@ This app will run in the browser, and will feature dynamically updated HTML and 
 **Before & After**
 \
 ![password generator](pass.png)
-
 ![password generator](final.png)
 \
 **To view the programmed data as shown, open the console in Dev Tools**
